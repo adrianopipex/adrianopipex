@@ -82,6 +82,7 @@ Especialista em estruturar plataformas de dados orientadas a negócio, com foco 
 | Introdução Apache Spark | Databricks | <img src="assets/badges/introducao-apache-spark.png" width="90"/> |
 | Azure Plataform Architect | Databricks | <img src="assets/badges/Azure-databricks-plataform-architect.png" width="90"/> |
 | Stream Processing Analysis Spark | Databricks | <img src="assets/badges/Stream-processing-analysis-spark.png" width="90"/> |
+| Sql Analytics | Databricks | <img src="assets/badges/Sql-analytics.png" width="90"/> |
 
 ---
 
