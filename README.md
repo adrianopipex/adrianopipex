@@ -72,4 +72,4 @@ Foco em:
 
 ## 🌐 Connect
 
-LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI
+LinkedIn: https://www.linkedin.com/in/adriano-costa-bi/
