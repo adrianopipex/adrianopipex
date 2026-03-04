@@ -1,68 +1,76 @@
 ## Hi there Seja bem Vindo👋
 
 ---
+<h1 align="center">Adriano Santos Costa</h1>
 
-## ⚙️ Perfil Técnico
+<p align="center">
+  💼 Data Specialist | Data Engineer  
+  <br>
+  ⚙️ Spark • Databricks • AWS • Lakehouse  
+  <br>
+  📍 São Paulo - Brasil
+</p>
 
-Data Engineer com mais de 10 anos de experiência em Engenharia de Dados e Analytics, atuando na construção de arquiteturas escaláveis, pipelines distribuídos e sustentação de ambientes de alta performance em cloud.
+---
 
-Especialista em estruturar plataformas de dados orientadas a negócio, com foco em performance, governança e preparação de dados para iniciativas de Advanced Analytics e Inteligência Artificial.
+## 👨‍💻 Sobre mim
 
-### 🎯 Foco Técnico
+Engenheiro de Dados com mais de 10 anos de experiência em Engenharia de Dados e Analytics, atuando na construção de arquiteturas escaláveis, pipelines distribuídos e sustentação de ambientes de alta performance em cloud.
 
-- Processamento distribuído com Apache Spark (Batch & Incremental)
+Especialista em estruturar plataformas de dados orientadas a negócio, com foco em performance, governança, confiabilidade e preparação de dados para iniciativas de Advanced Analytics e Inteligência Artificial.
+
+---
+
+## 🎯 Foco Técnico
+
+- Processamento distribuído com Apache Spark (Batch e Incremental)
 - Arquitetura Lakehouse (Bronze / Silver / Gold)
-- Modelagem dimensional e analítica
-- Engenharia de dados aplicada a projetos de AI
+- Modelagem Dimensional e Analítica
+- Engenharia de Dados aplicada a projetos de IA
 - Otimização de performance (Shuffle, Partitioning, Caching)
-- Estratégias de custo e escalabilidade em ambientes cloud
+- Estratégias de escalabilidade e custo em ambientes cloud
 - Data Quality e Governança
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Databricks & Spark Expertise
 
-- Data Lake & Lakehouse Architecture
-- Distributed Data Processing (Spark)
-- Batch & Incremental Pipelines
-- Delta Lake Optimization
-- Data Modeling (Dimensional & Analytical)
-- Performance Tuning (Shuffle, Partitioning, Caching)
-- Data Governance & Quality
-- CI/CD for Data Pipelines
+- Desenvolvimento e otimização de pipelines no Databricks
+- Análise de plano de execução com EXPLAIN
+- Monitoramento e troubleshooting via Spark UI
+- Estratégias de particionamento e redução de shuffle
+- Implementação de arquitetura Medallion
+- Delta Lake (OPTIMIZE, ZORDER, VACUUM)
+- Workflows e Jobs no Databricks
+- Unity Catalog (governança e controle de acesso)
+- Databricks SQL e construção de Dashboards
+- Integração com Databricks Genie para exploração analítica assistida por IA
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Stack Tecnológica
 
-### Languages
+### Linguagens
 - Python
 - SQL
 - PySpark
 
-### Big Data & Processing
+### Big Data & Plataforma
 - Apache Spark
 - Databricks
 - Delta Lake
+- Spark UI
+- Databricks SQL
 
 ### Cloud
-- AWS (S3, Glue, IAM, EC2)
+- AWS (S3, IAM, EC2, Glue)
 
-### Data Engineering
+### Engenharia & Observabilidade
 - ETL / ELT
-- Medallion Architecture
-- Orquestração de Pipelines
+- Arquitetura Medallion
 - Versionamento com Git
-
----
-
-## 🏗️ Architecture Focus
-
-✔️ Bronze / Silver / Gold Layers  
-✔️ Incremental Loads  
-✔️ Performance Optimization (Shuffle Reduction, Partition Strategy)  
-✔️ Data Quality Controls  
-✔️ Scalable AI-ready Data Platforms  
+- CI/CD para pipelines
+- Monitoramento e análise de performance
 
 ---
 
@@ -77,6 +85,33 @@ Especialista em estruturar plataformas de dados orientadas a negócio, com foco 
 
 ---
 
-## 🌐 Connect
+## 📌 Projetos em Destaque
 
-LinkedIn: https://www.linkedin.com/in/adriano-costa-bi/
+| Projeto | Descrição | Stack |
+|---------|----------|--------|
+| Projeto WhatsApp| Automação RPA aplicada ao WhatsApp | Python • openpyxl • pyautogui • Pillow • Pillow | pyautogui • win32clipboard |
+| Em construção | Pipeline distribuído com Spark e Delta Lake | Databricks • PySpark • AWS |
+| Em construção | Modelagem analítica para ambiente Lakehouse | Spark • SQL |
+
+---
+
+## 📈 Mentalidade de Engenharia
+
+- Performance first  
+- Arquitetura limpa e escalável  
+- Dados confiáveis como ativo estratégico  
+- Engenharia orientada a resultado  
+- Estruturação de dados preparada para IA  
+
+---
+
+## 🌎 Conecte-se comigo
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/adriano-costa-bi/
+
+---
+
+<p align="center">
+  🚀 Transformando dados em vantagem estratégica
+</p>
