@@ -61,12 +61,14 @@ Foco em:
 
 ---
 
-## 🏆 Certifications & Accreditations
+## 🏆 Certificações e Acreditações
 
-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+| Certificação | Instituição | Badge |
+|--------------|------------|--------|
+| Desenvolvimento de Aplicações com Apache Spark | Databricks | <img src="assets/badges/databrics-desenvolvimento-de-aplicacoes-com-apache-spark.png" width="90"/> |
+| XXXXXXXXXXXXX | Databricks | <img src="assets/badges/NOME-DO-ARQUIVO.png" width="90"/> |
+| XXXXXXXXXXXXX | Databricks | <img src="assets/badges/NOME-DO-ARQUIVO.png" width="90"/> |
+| XXXXXXXXXXXXX | Databricks | <img src="assets/badges/NOME-DO-ARQUIVO.png" width="90"/> |
 
 ---
 
