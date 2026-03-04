@@ -72,7 +72,7 @@ Especialista em estruturar plataformas de dados orientadas a negócio, com foco 
 |--------------|------------|--------|
 | Desenvolvimento de Aplicações com Apache Spark | Databricks | <img src="assets/badges/databrics-desenvolvimento-de-aplicacoes-com-apache-spark.png" width="90"/> |
 | Introdução Apache Spark | Databricks | <img src="assets/badges/introducao-apache-spark.png" width="90"/> |
-| XXXXXXXXXXXXX | Databricks | <img src="assets/badges/NOME-DO-ARQUIVO.png" width="90"/> |
+| Azure Plataform Architect | Databricks | <img src="assets/badges/Azure-databricks-plataform-architect.png" width="90"/> |
 | XXXXXXXXXXXXX | Databricks | <img src="assets/badges/NOME-DO-ARQUIVO.png" width="90"/> |
 
 ---
