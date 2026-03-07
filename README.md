@@ -87,6 +87,7 @@ Especialista em estruturar plataformas de dados orientadas a negócio, com foco 
 | Data Preparation for MAchine Learning | Databricks | <img src="assets/badges/Data-Preparation-for-MAchine-Learning.png" width="90"/> |
 | Databricks Fundamentals | Databricks | <img src="assets/badges/Databricks-Fundamentals.png" width="90"/> |
 | Databricks Lakehouse Fundamentals | Databricks | <img src="assets/badges/Databricks-Lakehouse-Fundamentals.png" width="90"/> |
+| Generative AI Fundamentals | Databricks | <img src="assets/badges/Generative-AI-Fundamentals.png" width="90"/> |
 
 ---
 
