@@ -86,6 +86,7 @@ Especialista em estruturar plataformas de dados orientadas a negócio, com foco 
 | AI Agent Fundamentals | Databricks | <img src="assets/badges/AI-Agent-Fundamentals.png" width="90"/> |
 | Data Preparation for MAchine Learning | Databricks | <img src="assets/badges/Data-Preparation-for-MAchine-Learning.png" width="90"/> |
 | Databricks Fundamentals | Databricks | <img src="assets/badges/Databricks-Fundamentals.png" width="90"/> |
+| Databricks Lakehouse Fundamentals | Databricks | <img src="assets/badges/Databricks-Lakehouse-Fundamentals.png" width="90"/> |
 
 ---
 
